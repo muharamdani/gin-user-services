@@ -6,7 +6,7 @@ import (
 	"os"
 )
 
-// Load environment variable from .env file
+// Env Load environment variable from .env file
 func Env(key string) string {
 	err := godotenv.Load(".env")
 	if err != nil {
