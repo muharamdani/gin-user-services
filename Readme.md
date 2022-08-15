@@ -6,3 +6,4 @@
 ## Need to develop more
 - Separate cmd, like migrate and seed
 - Repository management
+- Validation management
